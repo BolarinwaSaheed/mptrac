@@ -1,0 +1,28 @@
+<map id="write_output" name="write_output">
+<area shape="rect" id="node1" title="Write simulation output." alt="" coords="5,495,99,521"/>
+<area shape="rect" id="node2" href="$libtrac_8c.html#acc0c1829ca7770d2dd6342f2cdf10bb9" title="Temporal interpolation of meteo data." alt="" coords="521,216,600,243"/>
+<area shape="rect" id="node3" href="$libtrac_8c.html#a6f8a7ad670fbfe7dd4ed81f66695db6f" title="Write atmospheric data." alt="" coords="157,165,235,192"/>
+<area shape="rect" id="node9" href="$libtrac_8c.html#a70ca26c59c2fca1fda54a29dfd3625b6" title="Write CSI data." alt="" coords="159,444,233,471"/>
+<area shape="rect" id="node14" href="$libtrac_8c.html#af5d8dfa5fe43fa2bf192ee4a7b821b1f" title="Write ensemble data." alt="" coords="157,647,235,673"/>
+<area shape="rect" id="node17" href="$libtrac_8c.html#a59757e2569c3f96f57e291fdbe3ddc29" title="Write gridded data." alt="" coords="157,393,235,420"/>
+<area shape="rect" id="node23" href="$libtrac_8c.html#af2d95b1eb426ead1c25fe5f198f476c9" title="Write profile data." alt="" coords="157,545,235,572"/>
+<area shape="rect" id="node24" href="$libtrac_8c.html#a684686ab1a1db21abc1c65b66d9db10a" title="Write sample data." alt="" coords="147,495,245,521"/>
+<area shape="rect" id="node25" href="$libtrac_8c.html#a6afa769139ff29d1aa185e317f2f69c7" title="Write station data." alt="" coords="148,596,244,623"/>
+<area shape="rect" id="node26" href="$libtrac_8c.html#a2b06d8cbf3ebbe76a9c0e23db3eb5a41" title="Write VTK data." alt="" coords="159,697,233,724"/>
+<area shape="rect" id="node4" href="$libtrac_8c.html#a35d13994c6a0e753baf0e0df39bc8645" title="Write atmospheric data in ASCII format." alt="" coords="313,241,420,268"/>
+<area shape="rect" id="node5" href="$libtrac_8c.html#ac8f665b550ead41a8cc17da17132a63c" title="Write atmospheric data in binary format." alt="" coords="315,140,418,167"/>
+<area shape="rect" id="node6" href="$libtrac_8c.html#aa166d9de337fa3572477f102168b2907" title="Write atmospheric data in CLaMS position file format." alt="" coords="306,39,427,65"/>
+<area shape="rect" id="node7" href="$libtrac_8c.html#a56873d15f57e990c702ec46e5016abd8" title="Write atmospheric data in CLaMS position file and trajectory format." alt="" coords="293,191,440,217"/>
+<area shape="rect" id="node8" href="$libtrac_8c.html#ad5e5574adb44a2bb04fc21c3e20a9e2a" title="Write atmospheric data in netCDF format." alt="" coords="317,89,417,116"/>
+<area shape="rect" id="node10" href="$libtrac_8c.html#ae61cf973263fcc45574daa27d0dec8cd" title="Get weighting factor from kernel function." alt="" coords="315,393,418,420"/>
+<area shape="rect" id="node12" href="$libtrac_8c.html#a7a3277ab872141360b876c25b5643ba6" title="Read kernel data file." alt="" coords="322,444,411,471"/>
+<area shape="rect" id="node13" href="$libtrac_8c.html#a8031d82ad41705d1a3662e25e87a3dff" title="Read observation data." alt="" coords="329,545,404,572"/>
+<area shape="rect" id="node11" href="$libtrac_8c.html#a4e1b87dc3c93a23c89f739adf10b60dc" title="Find array index for irregular grid." alt="" coords="685,425,760,452"/>
+<area shape="rect" id="node15" href="$libtrac_8c.html#aaf98f7230de0893b8dc4833d3c83c7a4" title="Convert Cartesian coordinates to geolocation." alt="" coords="331,647,403,673"/>
+<area shape="rect" id="node16" href="$libtrac_8c.html#ae3aea782dfca9019f3f2d169f8cc0f6d" title="Convert geolocation to Cartesian coordinates." alt="" coords="331,596,403,623"/>
+<area shape="rect" id="node18" href="$libtrac_8c.html#a45e1b76bdf16030222665374ecc02e18" title="Spatial interpolation of meteo data." alt="" coords="299,495,434,521"/>
+<area shape="rect" id="node21" href="$libtrac_8c.html#a94ad5b48782b8130a025b4de3629f7b8" title="Write gridded data in ASCII format." alt="" coords="313,292,420,319"/>
+<area shape="rect" id="node22" href="$libtrac_8c.html#af343f9076cf1c439079c3860a1c5b4df" title="Write gridded data in netCDF format." alt="" coords="317,343,416,369"/>
+<area shape="rect" id="node19" href="$libtrac_8c.html#ab697dbe3b5a6fc59b5defc1b80c558aa" title="Spatial interpolation of meteo data." alt="" coords="488,488,633,515"/>
+<area shape="rect" id="node20" href="$libtrac_8c.html#a2a3c8ab98f21179741b274439786726d" title="Find array index for regular grid." alt="" coords="681,488,764,515"/>
+</map>
